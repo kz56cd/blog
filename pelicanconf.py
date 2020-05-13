@@ -4,9 +4,10 @@ from __future__ import unicode_literals
 
 AUTHOR = 'kz56cd'
 SITENAME = 'yardsale'
-SITEURL = ''
+SITEURL = 'https://kz56cd.github.io/blog'
 
 PATH = 'content'
+# RELATIVE_URLS = True
 
 TIMEZONE = 'Asia/Tokyo'
 
