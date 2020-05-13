@@ -53,8 +53,9 @@
 		background: #fff;
 		font-size: 14px;
 		line-height: 24px;
-		color: #888;
-		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
+    /* color: #888; */
+    color: #4e4e4e;
+    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
  	}
 

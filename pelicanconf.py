@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'kz56cd'
 SITENAME = 'yardsale'
-SITEURL = 'https://kz56cd.github.io/blog'
+SITEURL = ''
 
 PATH = 'content'
 # RELATIVE_URLS = True
