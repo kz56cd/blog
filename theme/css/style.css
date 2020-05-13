@@ -392,8 +392,8 @@
 #titlebar {
 	background-color: #f9f9f9;
 	position: relative;
-	min-height: 80px;
-	margin: 0 0 20px 0;
+	min-height: 40px;
+	margin: 0 0 40px 0;
 	padding-top: 20px;
 	top: -20px;
 }
@@ -450,7 +450,7 @@
 #breadcrumbs ul {
 	float: left;
 	font-size: 13px;
-	margin-top: 27px;
+	margin-top: 8px;
 	font-weight: 500;
 }
 
@@ -2406,7 +2406,7 @@ ol li ol.childlist .comment-des {
 }
 
 .categories ul li:before {
-	content: "/";
+	content: "";
 	font-family: "FontAwesome";
 	font-size: 13px;
 	color: #ccc;
@@ -3293,7 +3293,7 @@ table.standard-table tr { border-radius: 3px }
 	padding: 25px;
 	line-height: 23px;
 	border-radius: 3px;
-	-webkit-box-shadow:: inset 0px -1px 0px 0px rgba(0,0,0, 0.06);
+	-webkit-box-shadow: inset 0px -1px 0px 0px rgba(0,0,0, 0.06);
 	box-shadow: inset 0px -1px 0px 0px rgba(0,0,0, 0.06);
 }
 
@@ -3668,7 +3668,7 @@ blockquote {
 	position: absolute;
 	bottom: 0;
 	width: 100%;
-	background-color: #a0a0a0;
+	background-color: #1d1d1d;
 	padding: 20px 0 17px 0;
 	color: #fff;
 }
