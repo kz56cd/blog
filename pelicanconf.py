@@ -16,10 +16,10 @@ DEFAULT_LANG = 'ja'
 THEME = './themes/nice-blog'
 
 # Custom theme(for 'nice-blog')
-THEME_COLOR = 'black'
+THEME_COLOR = 'gray' # CSS PATH: ./themes/nice-blog/static/css/colors/
 SIDEBAR_DISPLAY = ['about', 'categories', 'tags']
 SIDEBAR_ABOUT = 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi quae hic dicta eius ad quam eligendi minima praesentium voluptatum? Quidem quaerat eaque libero velit impedit dicta, repudiandae sapiente. Deserunt, excepturi.'
-COPYRIGHT = "© 2020 kz56cd"
+COPYRIGHT = "2020 kz56cd"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

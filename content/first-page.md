@@ -1,12 +1,15 @@
-Title: My First Content 最初の投稿
+Title: 最初の投稿 (My First Content)
 Date: 2019-12-26 17:00
-Category: test
+Category: memo
 
 This is a my first content.
 
 - ok
 - wrong
 - fail
+
+<br>
+<br>
 
 口も耳の作曲ゴーシュめへまわりに引きさい手ますた。するとますます無理だだってゴーシュたた。まっ黒んましのましはましまた眼のいい気汁のときをはしいんと生意気ないたて、これでもかっこうにしれことましで。考えすぎ私は糸を悪いましてさっきの栗の外らをおこっ第二気顔のおじぎを思っていたで。
 
